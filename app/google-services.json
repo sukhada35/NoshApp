@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258472117421",
+    "project_id": "nosh-c886a",
+    "storage_bucket": "nosh-c886a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258472117421:android:62331d66e9ba2fc91b3224",
+        "android_client_info": {
+          "package_name": "com.example.nosh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfn0xhWOjD9Tnm3qTHhgBxU46IDv9ZJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
